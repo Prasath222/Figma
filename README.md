@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <img style="width: 287px; height: 532px; border-radius: 20px" src="https://via.placeholder.com/287x532" />
 <div style="width: 174px; height: 44.50px; background: #D6EEE1"></div>
 <div style="width: 87px; height: 29px; color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 800; word-wrap: break-word">LOGIN</div>
@@ -58,6 +59,7 @@ Figma
 <div style="width: 185px; height: 31px; color: black; font-size: 20px; font-family: Inter; font-style: italic; font-weight: 400; word-wrap: break-word">SUBMIT:</div>
 <img style="width: 267px; height: 53px" src="https://via.placeholder.com/267x53" />
 <div style="width: 160px; height: 27px; color: black; font-size: 24px; font-family: Inter; font-weight: 800; word-wrap: break-word">THANK YOU:</div>
+```
 
 ## OUTPUT:
 ![Screenshot 2024-12-19 175606](https://github.com/user-attachments/assets/0678d1fd-f62b-4ec3-ad99-316d59bd5e14)
